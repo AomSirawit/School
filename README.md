@@ -14,12 +14,12 @@ This is a simple school website developed in PHP that provides separate login ro
    - Teachers can view grades assigned to students.
    - Students can check their own grades.
 
-# tools
+## tools
 1. Visual Studio Code
 2. FileZilla
 3. PHPMyAdmin
    
-# programming language
+## programming language
 1. PHP
 2. JAVASCRIPT
 3. HTML
